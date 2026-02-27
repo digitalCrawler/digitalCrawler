@@ -153,26 +153,6 @@
 
 <br/>
 
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=digitalCrawler&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=digitalCrawler&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="170" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=digitalCrawler&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-<!-- Activity graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=digitalCrawler&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF" alt="Activity Graph" width="100%"/>
-</div>
-
-<br/>
-
 ## Let's Connect
 
 <div align="center">
