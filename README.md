@@ -21,10 +21,11 @@
   and Microservices.
 ```
 
-- **Currently:** Leading development of **Orbis** — a Ship Planned Maintenance System using Next.js, .NET Core & PostgreSQL
+- **Currently:** Leading end-to-end development of enterprise-grade products — from architecture to deployment
 - **Expertise:** Microservices architecture, REST API design, database optimization, and performance tuning
-- **Leadership:** Code reviews, mentoring junior developers, and driving architectural decisions
-- **AI-powered:** Actively using GitHub Copilot & Claude Code to ship features faster
+- **Impact:** Shipped systems serving 500+ users, cut load times by 40%, and migrated monoliths to microservices
+- **Leadership:** Driving code reviews, mentoring engineers, and owning technical decisions across cross-functional teams
+- **AI-powered:** Leveraging GitHub Copilot & Claude Code to accelerate delivery and ship features in days, not weeks
 
 <br/>
 
